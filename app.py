@@ -18,7 +18,7 @@ st.set_page_config(
     layout="wide",
 )
 
-st.title("Visualizador de ecuaciones diferenciales de Clairaut")
+st.title("Programa de ecuaciones diferenciales de Clairaut")
 st.markdown(
     "Ingrese una función $f(p)$ para construir la ecuación "
     r"$y = x y' + f(y')$, obtener la familia de rectas "
